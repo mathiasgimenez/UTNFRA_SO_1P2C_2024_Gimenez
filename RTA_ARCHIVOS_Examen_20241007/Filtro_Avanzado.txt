@@ -1,4 +1,4 @@
 mi IP Publica es: 190.172.71.5
-Mi usuario es: Mathi-Dev
-El Hash de mi Usuario es:  $y$j9T$qKVSLLQHaQjoHLQm84hpwLzr$8xce4Dps6MYoZyMmSintGrV9zmU/GO.bLEVr3Q.V8Z5
-La URL de mi repositorio es: https://github.com/mathiasgimenez/UTNFRA_SO_1P2C_2024_Gimenez.git
+Mi usuario es: ubuntu
+El Hash de mi Usuario es:  $6$7vTmlllgKiK1h38I$4vARmQm1hcEKN8efza4RY.3RoBc/gjyGI8bS8WFBhDfD2BTYoX3JFal.lhKBOXt06hHHflBU31jw10DnYE.Sz1
+La URL de mi repositorio es: git@github.com:mathiasgimenez/UTNFRA_SO_1P2C_2024_Gimenez.git
